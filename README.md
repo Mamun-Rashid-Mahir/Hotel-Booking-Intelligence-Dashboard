@@ -4,7 +4,7 @@
 An enterprise-grade hospitality operations solution built for **Velora Hotel** to optimize room yield management, break down guest distribution channels, and analyze revenue capture behaviors. Processing operational transactions from **September 2024 to November 2024**, this dashboard consolidates key performance drivers to protect revenue margins against cancellations and maximize customer loyalty programs.
 
 <p align="center">
-  <img src="Hotel_Booking_Dashboard.jpg" width="100%" alt="Velora Hotel Dashboard View" />
+  <img src="Hotel Booking Dashboard.jpg" width="100%" alt="Velora Hotel Dashboard View" />
 </p>
 
 ### 🔗 Public Interactive Link
